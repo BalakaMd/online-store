@@ -88,10 +88,10 @@ Users can authenticate via GitHub using OAuth.
 
 
 ## Screenshots
-[Home page](screenshots/Снимок экрана 2024-01-06 в 12.58.11.png)
-[Products](screenshots/Снимок экрана 2024-01-06 в 12.58.38.png)
-[Authorization](screenshots/Снимок экрана 2024-01-06 в 12.58.47.png)
-[Profile](screenshots/Снимок экрана 2024-01-06 в 12.58.59.png)
-[Orders](screenshots/Снимок экрана 2024-01-06 в 12.59.15.png)
+![Home page](/screenshots/1.png)
+![Products](/screenshots/2.png)
+![Authorization](/screenshots/3.png)
+![Profile](/screenshots/4.png)
+![Orders](/screenshots/5.png)
  
 ---
